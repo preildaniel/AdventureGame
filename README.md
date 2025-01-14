@@ -6,9 +6,7 @@ Képzeld el, hogy egy olyan birodalomban jársz, ahol a fák suttogják a régi 
 Mi vár rád Aeloriában?
 - Fedezd fel a titkos helyszíneket! Aeloria tele van rejtett barlangokkal, elfeledett romokkal és varázslatos erdőkkel. Minden sarkon új felfedezések várnak rád!
 
-- Találkozz különleges lényekkel! Aeloria lakói között találkozhatsz tündérekkel, sárkányokkal, és más mitikus lényekkel. Barátkozz meg velük, vagy éppen ellenkezőleg, harcolj meg a sorsodért!
-
-- Válassz karaktert! Legyél bátor harcos, ügyes tolvaj, vagy bölcs mágus! Minden karakternek megvan a maga egyedi képessége, amely segít a kalandjaid során.
+- Találkozz különleges lényekkel! Harcolj meg a sorsodért!
 
 - Képességek és fejlődés! Aeloria világában a karaktered folyamatosan fejlődik. Gyűjts tapasztalatot, tanulj új varázslatokat, és válj a legnagyobb hősévé!
 
