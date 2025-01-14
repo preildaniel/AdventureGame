@@ -86,8 +86,9 @@ public class AeloriaAdventure {
                 honor += 5;
             }
         } else {
-            System.out.println("Elfutsz, de a becsületed csorbul.");
+            System.out.println("Elfutsz, de a becsületed csorbul, de a karmád feljebb javult.");
             honor -= 5;
+            karma += 10;
         }
         mysteriousPrison();
     }
@@ -188,9 +189,9 @@ public class AeloriaAdventure {
         } else if (reputation >= 10) {
             System.out.println("A hírneved vonzza a szövetségeseket, akik segítenek legyőzni a démont!");
         } else {
-            System.out.println("Nem voltál elég felkészült, a démon legyőz téged...");
+            System.out.println("Nem voltál elég felkészült, a démon legyőz téged... Sajnos nem sikerült helyreállítanod a világ rendjét.");
         }
-        System.out.println("A kaland véget ért! Köszönjük, hogy játszottál.");
+        System.out.println("A kaland véget ért! Aeloria világa megmenekült. Köszönjük, hogy játszottál.");
     }
 
     private static int askQuestion(String question, String correctAnswer) {
